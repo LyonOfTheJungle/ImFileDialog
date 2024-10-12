@@ -3,6 +3,7 @@ project "ImFileDialog"
     language "C++"
     cppdialect "C++20"
     staticruntime "on"
+    architecture 'x86_64'
 
     -- Only include specific files
     files {
