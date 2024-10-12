@@ -38,3 +38,6 @@ imgui.ini
 ImFileDialogExample
 CMakeCache.txt
 CMakeFiles
+/bin
+/obj
+ImFileDialog.vcxproj
